@@ -152,7 +152,7 @@ body {
 .body-main__image{
 	max-width: 107.8%;
 	flex-basis: 602px;
-	transform: translate (7.8%, 0px);
+	transform: translate(7.8%, 0px);
 }
 .advantages-main {
 	display: flex;
